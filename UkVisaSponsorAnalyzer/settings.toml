@@ -1,0 +1,4 @@
+input = "res/2015-08-26_Tier_25_Register_of_Sponsors__New_ratings_.pdf"
+output = "res/sponsors.txt"
+totalNumSponsors = 29319
+manualMode = false
